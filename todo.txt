@@ -1,0 +1,8 @@
+-zrobić proceduralną pizzerie
+-menu, do wyboru:
+                 +pizza 5 rodzajów, składniki dodatkowe, własna kompozycja
+                 +z kilku składników
+                 +napoje ciepłe, zimnen alko
+                 +normalne jedzenie
+                 +płatnosci, napiwek
+-synchronizacja z gitem
